@@ -18,10 +18,10 @@
 
 
 # commit 규칙
-* commit 메세지: 문제이름 / 걸린시간
+* commit 메세지: 문제이름 / 걸린시간 / 문제 유형
 * 터미널 작성법:
 ```
-git commit -m "Hello World / 1분"
+git commit -m "Hello World / 1분 / 예제"
 ```
 
 
@@ -44,6 +44,7 @@ git commit -m "Hello World / 1분"
 * 매주 목요일 오후 8시 디스코드 회의 참여
 * 회의 불참 시 반드시 미리 보고
 * 회의 전까지 주차별 문제 해결하여 PR 올리기
+* 문제 유형 중 예제, 실습 문제는 필수
 
 ---
 `https://github.com/Algorithm-with-SSAFY/Algorithm-Study`의 규칙을 참고하였습니다.
